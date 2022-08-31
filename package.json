@@ -47,7 +47,7 @@
     "lodash": "^4.17.14",
     "marked": "^0.7.0",
     "moment": "^2.22.1",
-    "moment-timezone": "^0.5.21",
+    "moment-timezone": "^0.5.35",
     "popper.js": "^1.15.0",
     "pretty-checkbox-vue": "^1.1.8",
     "sass": "^1.15.2",
